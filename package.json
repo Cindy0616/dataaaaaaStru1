@@ -1,0 +1,23 @@
+{
+  "name": "dataaaaaastru1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cindy0616/dataaaaaaStru1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cindy0616/dataaaaaaStru1/issues"
+  },
+  "homepage": "https://github.com/Cindy0616/dataaaaaaStru1#readme",
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-plugin-react": "^7.20.3"
+  }
+}
